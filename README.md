@@ -7,4 +7,4 @@
   
 ![Captura de tela 2022-06-16 111236](https://user-images.githubusercontent.com/103688000/174090152-5b1fb443-cc58-411a-9ea8-8b63206eefc6.png)
 
-<b>Aqui irá exibir os resultados para o usuário. Chamando a função de leitura de sistema e oque você quer ler</b><br><br>
+<b>Aqui irá exibir os resultados para o usuário. Chamando a função de leitura de sistema e oque você quer ler<br> E no seu terminal irá mostrar as informções pedidas</b><br><br>
